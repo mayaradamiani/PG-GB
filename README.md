@@ -34,6 +34,13 @@ Lista de filtros presentes:
 ### Usando o programa
 
 Após inicializar o programa aparecerá 2 opções de escolha. Importar uma foto ou utilizar a webcam para captura:
+![image](https://user-images.githubusercontent.com/54486283/175945117-d42695b7-363f-45c6-bf62-ed8326320b97.png)
 
+Se escolher opção 1 a web cam irá abrir. Se escolher a opção 2 será necessário informar o caminho da imagem.
+
+### opções do programa
+
+Ao importar uma foto ou abrir a web cam, são apresentados opções para realizar com o teclado, conforme abaixo:
+![image](https://user-images.githubusercontent.com/54486283/175945649-51b803de-92da-4a22-b3f9-a492dc3b5a3b.png)
 
 
